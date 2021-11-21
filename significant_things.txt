@@ -1,0 +1,41 @@
+MODEL USED: OLS
+
+All Sectors:
+    Significant variables: assets, debt, cashflow, mv, rd, mkt
+    R^2: 0.914
+    Log-L: -154250   
+
+
+
+Sector 1:
+    Significant variables: assets, debt, cashflow, mv, mkt
+    R^2: 0.912
+    Log-L: -154440
+Sector 2:
+    Significant variables: assets, debt, earnings, mkt
+    R^2: 0.947
+    Log-L: -1900.1
+Sector 3:
+    Significant variables: debt, earnings, mv, mkt
+    R^2: 0.946
+    Log-L: -6619.6
+Sector 4:
+    Significant variables: assets, debt, earnings, cashflow, rd, mkt
+    R^2: 0.982
+    Log-L: -49544
+Sector 5:
+    Significant variables: assets, debt, earnings, cashflow, rd, mkt
+    R^2: 0.984
+    Log-L: -12317
+Sector 6:
+    Significant variables: assets, debt, earnings, mkt
+    R^2: 0.947
+    Log-L: -1900.1
+Sector 7:
+    Significant variables: debt, earnings, ad, mkt
+    R^2: 0.991
+    Log-L: -1143.9
+Sector 8:
+    Significant variables: assets, debt, earnings, cashflow, ad, mkt
+    R^2: 0.955
+    Log-L: -12594.
